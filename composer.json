@@ -2,7 +2,7 @@
     "name": "wcactus/typographru",
     "description": "Laravel 5 screen typography module for russian language",
     "require": {
-        "php": ">=5.3"
+        "php": "^7.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.3"
